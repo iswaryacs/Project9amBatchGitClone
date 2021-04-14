@@ -5,6 +5,7 @@ public class Samplegittask {
 		System.out.println("Axis bank");
 		System.out.println("Indian bank");
 		System.out.println("new lines of code modified successfully");
+		System.out.println("iswarya added new lines of code");
 
 	}
 	public static void main(String[] args) {
